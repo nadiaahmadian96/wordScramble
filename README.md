@@ -6,5 +6,5 @@ Unicode is a standard for storing and representing text, which at first glance y
 
 ## Screenshots
 
-![App Screenshot](https://github.com/nadiaahmadian96/GuessingGame01/blob/main/Screen.png)
+![App Screenshot](https://github.com/nadiaahmadian96/wordScramble/blob/main/scramble.png
 
